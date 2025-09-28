@@ -5,7 +5,7 @@ To jest moja pierwsza aplikacja Flaskowa
 ## Funkcje
 - dodawanie, pobieranie, aktualizacja i usuwanie zadań
 - zapis danych do pliku `tasks.json`
-- sensowne kody HTTP (`201`, `404`)
+- zwraca odpowiednie kody HTTP (np. `201 Created`, `404 Not Found`)
 - zero konfiguracji, bez bazy danych
 
 ## Wymagania
