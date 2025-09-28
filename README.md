@@ -1,5 +1,12 @@
 # Prosta aplikacja do zadań (Flask)
 
+TODO: Wkrótce dodam testy jednostkowe z użyciem pytest, żeby automatycznie sprawdzać działanie API.
+
+Planowane ulepszenia:
+Testy jednostkowe (pytest)
+Deploy aplikacji na darmowy hosting
+Rozbudowa dokumentacji
+
 Prosty skrypt w Pythonie. Udostępnia REST API do listy zadań i zapisuje dane do `tasks.json` w tym samym folderze co skrypt.
 To jest moja pierwsza aplikacja Flaskowa
 ## Funkcje
